@@ -274,5 +274,21 @@ div iframe {
     text-align: left;
     margin: 30px 0 0 60px;
     color:white;
-    line-height:1.5
 }
+
+.closing-contact p, .closing-contact address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.closing-contact h3 {
+    color:#fce138;
+    font-size:32px;
+}
+
+.closing-contact a {
+    color:#fce138
+}
+/* REACH OUT STYLES END */
